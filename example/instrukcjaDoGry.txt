@@ -1,0 +1,11 @@
+Komendy (<> - oznacza przedmiot z ekwipunku, z otoczenia, lub osobę i stworzenia)
+rozejrzyj się
+zajrzyj do ekwipunku
+idź do <>
+podnieś <>
+upuść <>
+otwórz <> używając <>
+zaatakuj <> używająć <>
+zanieś <> do <>
+rozmawiaj z <>
+zagraj na <>
